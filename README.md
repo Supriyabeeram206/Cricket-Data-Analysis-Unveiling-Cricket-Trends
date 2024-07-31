@@ -1,5 +1,5 @@
 # Cricket-Data-Analysis-Unveiling-Cricket-Trends
-PL Cricket Data Analysis
+IPL Cricket Data Analysis
 Overview
 This project delves into the Indian Premier League (IPL) using data analysis to uncover insights, assess strategies, and enhance understanding of the game. Leveraging Python for data collection and cleaning, this analysis explores player performance, team strategies, and fan engagement metrics.
 
