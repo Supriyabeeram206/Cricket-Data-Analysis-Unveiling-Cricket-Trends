@@ -15,3 +15,4 @@ Collected and cleaned data using Python, tracking 50 teams and 500+ player perfo
 Generated strategic recommendations that improved win rates by 15%.
 Purpose
 This repository serves cricket enthusiasts, fantasy league players, and data analysts by providing actionable insights and strategic recommendations. It offers a comprehensive look at the data-driven aspects of the IPL, helping users engage in informed discussions and enhance their game strategies.
+![IPL_bi-1](https://github.com/user-attachments/assets/c6e59b67-cd8a-47bc-b90c-8795932982ae)
